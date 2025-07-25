@@ -5,4 +5,4 @@ GitHub User Finder is a simple and powerful web application that allows users to
 🧑‍💻 Developed By
      Mufeeza Shaikh
   📧 Email: [mufeezashaikh123@gmail.com]
-  📱 LinkedIn :[https://www.linkedin.com/in/mufeeza-shaikh-559522344]
+  
